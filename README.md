@@ -45,6 +45,7 @@ jupyter notebook ArduinoMaster.ipynb
 - [ ] 添加更多的prompt引導，使其註解效果更好
 - [ ] 將項目編成執行文件
 - [ ] 輸出使用token數量，與費用預估
+- [ ] 增加函數直接註解，使註解更連貫
 - [x] 支持python註解
 
 ## 注意事項
