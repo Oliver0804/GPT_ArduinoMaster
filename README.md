@@ -5,6 +5,10 @@ ArduinoMaster 是一個以 OpenAI 的 GPT 為基礎，提供自動撰寫 Arduino
 ![https://github.com/Oliver0804/GPT_ArduinoMaster/blob/main/%E6%88%AA%E5%9C%96%202023-06-21%20%E4%B8%8B%E5%8D%885.37.53.png](https://github.com/Oliver0804/GPT_ArduinoMaster/blob/main/%E6%88%AA%E5%9C%96%202023-06-21%20%E4%B8%8B%E5%8D%885.37.53.png)
 ### 大師講解後
 ![https://github.com/Oliver0804/GPT_ArduinoMaster/blob/main/%E6%88%AA%E5%9C%96%202023-06-21%20%E4%B8%8B%E5%8D%885.37.32.png](https://github.com/Oliver0804/GPT_ArduinoMaster/blob/main/%E6%88%AA%E5%9C%96%202023-06-21%20%E4%B8%8B%E5%8D%885.37.32.png)
+
+### python代碼支持
+![https://github.com/Oliver0804/GPT_ArduinoMaster/blob/main/%E6%88%AA%E5%9C%96%202023-06-21%20%E4%B8%8B%E5%8D%8810.45.09.png](https://github.com/Oliver0804/GPT_ArduinoMaster/blob/main/%E6%88%AA%E5%9C%96%202023-06-21%20%E4%B8%8B%E5%8D%8810.45.09.png)
+
 ## 開始使用
 下面將逐步指導您如何安裝並使用 ArduinoMaster。
 
