@@ -29,7 +29,7 @@ pip install -r requirements.txt
 使用方式
 在 Jupyter Notebook 中開啟 arduino_notebook.ipynb 檔案
 ```bash
-jupyter notebook arduino_notebook.ipynb
+jupyter notebook ArduinoMaster.ipynb 
 ```
 在 notebook 中，輸入您的 Arduino 程式碼路徑
 
