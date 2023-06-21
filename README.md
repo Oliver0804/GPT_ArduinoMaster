@@ -40,6 +40,12 @@ jupyter notebook ArduinoMaster.ipynb
 ```
 在 notebook 中，輸入您的 Arduino 程式碼路徑
 
+## TODO
+- [ ] 添加記憶性，使其可針對上下文分析
+- [ ] 添加更多的prompt引導，使其註解效果更好
+- [ ] 將項目編成執行文件
+- [ ] 輸出使用token數量，與費用預估
+- [x] 支持python註解
 
 ## 注意事項
 配置檔案存放於.cfg中，請自行添加OPENAPI_KEY
